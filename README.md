@@ -15,9 +15,11 @@ This project analyzes Netflix data to explore:
 Dataset used: [Netflix Titles Dataset](https://www.kaggle.com/shivamb/netflix-shows)
 
 ## 📷 Sample Output
-![Movies vs TV shows](Screenshot 2025-12-23 125620.png)
-![top 10 genres](Screenshot 2025-12-23 125635.png)
-![year on addition](Screenshot 2025-12-23 125645.png)
+## 📷 Sample Output
+![Movies vs TV shows](Screenshot%202025-12-23%20125620.png)
+![Top 10 Genres](Screenshot%202025-12-23%20125635.png)
+![Year on Addition](Screenshot%202025-12-23%20125645.png)
+
 ## 🚀 How to Run
 ```bash
 jupyter notebook netflix_analysis.ipynb
